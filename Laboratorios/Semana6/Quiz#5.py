@@ -1,6 +1,6 @@
 
 # Quiz#5
-# Eloy Sánchez
+# Eloy SÃ¡nchez
 # Instrucciones: Promedio de notas
 
 print ("Escriba el nombre del alumno")
@@ -21,7 +21,7 @@ print ("El promedio es de : " + str (promedio))
 
 if promedio >= 71:  
 
-      print ("El estudiante aprobo la materia")
+      print (" El estudiante aprobo la materia ")
 
 else:
 
