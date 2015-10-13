@@ -12,7 +12,7 @@ comision=((totalventas)*12.5)/100
 totalcomision=totalventas+comision
 
 
-print("               Vendedor : " + str(nombre))
+print("               Vendedor :  " + str(nombre))
 
 
 print("El total de la venta es de : " + str(totalventas))
